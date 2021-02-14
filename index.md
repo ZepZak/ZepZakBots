@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+<title>Commands - ZepZakBots</title>
+    
+  </head>  
+  <body>
+    <h1>Commands</h1>
+    
+    <p>
+      1. MessageBot
+    </p>
 
-You can use the [editor on GitHub](https://github.com/ZepZak/ZepZakBots/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p>
+      ------------------------------
+    </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<p>
+      1. Developer (^dev)
+    </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<p>
+      This command pings the developer if in server.
+    </p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>
+      ------------------------------
+    </p>
 
-- Bulleted
-- List
+<p>
+      2. Warm Me (^warmme)
+    </p>
 
-1. Numbered
-2. List
+<p>
+      This command warms you.
+    </p>
 
-**Bold** and _Italic_ and `Code` text
+<p>
+      ------------------------------
+    </p>
 
-[Link](url) and ![Image](src)
-```
+<p>
+     Pirate (^pirate)
+    </p>
+    
+<p>
+      We never knew MessageBot was a pirate!
+    </p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>
+      ------------------------------
+    </p>
 
-### Jekyll Themes
+<p>
+     Helpout (^helpout)
+    </p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZepZak/ZepZakBots/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>
+      Help out MessageBot and the developers friends.
+    </p>
 
-### Support or Contact
+<p>
+      ------------------------------
+    </p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>
+      Command Count (^cmdcount)
+    </p>
+
+<p>
+      This counts all commands (including SECRET ONES!)
+    </p>
+
+<p>
+      ------------------------------
+    </p>
+
+<p>
+      Games (^game)
+    </p>
+
+<p>
+      Play games with MessageBot! (currently in the making).
+    </p>
+
+<p>
+      ------------------------------
+    </p>
